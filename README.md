@@ -14,7 +14,7 @@
 
 - The workflow and architecture of the model using RAG is,
 
-<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20115611.png" alt="GitHub Logo" width="800" height="900">
+<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20091348.png" alt="GitHub Logo" width="900" height="900">
 
 - The overall architecture is,
 
