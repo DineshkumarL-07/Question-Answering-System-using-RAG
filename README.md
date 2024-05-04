@@ -4,8 +4,8 @@
 
 - The main three compoents of the model is, 
 
-<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20083949.png" alt="GitHub Logo" width="700" height="200">
+<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20083949.png" alt="GitHub Logo" width="700" height="300">
 
 - The System Design of the Question Answering System (QAS)
 
-<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20083949.png" alt="GitHub Logo" width="700" height="200">
+<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20091704.png" alt="GitHub Logo" width="700" height="600">
