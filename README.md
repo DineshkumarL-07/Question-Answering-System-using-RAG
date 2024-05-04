@@ -2,7 +2,10 @@
 - Retrieval augmented generation, or RAG, is an architectural approach that can improve the efficacy of large language model (LLM) applications by leveraging custom data.
 - The Question Answering System (QAS) using Retrieval-Augmented Generation (RAG) is a natural language processing (NLP) system designed to provide accurate and relevant answers to user queries/questions. It features a user-friendly interface where users can upload their documents and ask questions related to the content.
 
--> The main three compoents of the model is, 
+- The main three compoents of the model is, 
 
-<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20083949.png" alt="GitHub Logo" width="500" height="200">
+<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20083949.png" alt="GitHub Logo" width="700" height="200">
 
+- The System Design of the Question Answering System (QAS)
+
+<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20083949.png" alt="GitHub Logo" width="700" height="200">
