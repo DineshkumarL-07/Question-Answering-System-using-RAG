@@ -4,6 +4,5 @@
 
 -> The main three compoents of the model is, 
 
-<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Key%20Component%20of%20Workflow.png" alt="GitHub Logo" width="200" height="200">
+<img src="https://github.com/DineshkumarL-07/Question-Answering-System-using-RAG/blob/main/images/Screenshot%202024-05-04%20083949.png" alt="GitHub Logo" width="500" height="200">
 
-![workflow]("")
