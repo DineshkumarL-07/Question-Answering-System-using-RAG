@@ -4,4 +4,6 @@
 
 -> The main three compoents of the model is, 
 
-![workflow]("C:\Users\rgowt\OneDrive\Pictures\Screenshots\Screenshot 2024-05-04 083949.png")
+<img src="C:\Users\rgowt\OneDrive\Pictures\Screenshots\Screenshot 2024-05-04 083949.png" alt="GitHub Logo" width="200" height="200">
+
+![workflow]("")
